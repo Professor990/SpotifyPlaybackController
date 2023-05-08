@@ -1,0 +1,4 @@
+spotipy==2.19.0
+win32gui==221.8
+pywin32==302
+keyboard==0.13.5
